@@ -1,1 +1,1 @@
-# Price-Optimization
+In this work, we shall look at the sales of the items of a cafe which sells burgers, coke, lemonade and coffee. As a data scientist, it will be our task to find out the optimal prices to be set for these items. If the price is set too high, the sales will decrease & the price is set too low, then the margins will be less. We have to find the the sweet spot that will give us the maximum profit
